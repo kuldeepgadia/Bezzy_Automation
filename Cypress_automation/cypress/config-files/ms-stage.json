@@ -1,0 +1,14 @@
+{
+    "baseUrl": "https://bezzy-ms-web-stage.bezzy.com/", 
+    "experimentalShadowDomSupport": true,
+    "experimentalNetworkStubbing": true,
+    "pageLoadTimeout": 100000,
+    "chromeWebSecurity": false,
+    "trashAssetsBeforeRuns": true,
+    "testFiles": [
+      "ms-signup.spec.js",
+      "ms-top-navbar.spec.js",
+      "ms-footer.spec.js",
+      "ms-stage-navmenu.spec.js"
+    ]
+   }
