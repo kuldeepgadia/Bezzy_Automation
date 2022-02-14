@@ -6,9 +6,6 @@
     "chromeWebSecurity": false,
     "trashAssetsBeforeRuns": true,
     "testFiles": [
-      "ms-signup.spec.js",
-      "ms-top-navbar.spec.js",
-      "ms-footer.spec.js",
-      "ms-stage-navmenu.spec.js"
-    ]
+      "ms-signup-delete.spec.js"
+     ]
    }
