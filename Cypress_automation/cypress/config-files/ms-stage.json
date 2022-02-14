@@ -1,5 +1,5 @@
 {
-    "baseUrl": "https://bezzy-ms-web-stage.bezzy.com/", 
+    "baseUrl": "https://stage.bezzyms.com/", 
     "experimentalShadowDomSupport": true,
     "experimentalNetworkStubbing": true,
     "pageLoadTimeout": 100000,
